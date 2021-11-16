@@ -1,7 +1,7 @@
 
 ## Hi! I'm Victor Cardenas (or vitto-vitto =D), 
 
-### I'm passionate about all kinds of technologies, from pure machanics tech to fully digital tech. Always looking to learn more about the area of web developing that is simply amazing!
+### I'm passionate about all kinds of technologies, from pure mechanics tech to fully digital tech. Always looking to learn more about the area of web developing that is simply amazing!
 
 - 🌱 I’m currently learning about DOM manipulation and VueJS
 - 👯 I’m looking to collaborate on every kind of social project involving technology
